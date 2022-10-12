@@ -1,0 +1,24 @@
+body, html {
+    margin: 0 auto;
+    max-width: 2000px;
+    min-width: 1000px;
+    background: linear-gradient(to bottom, #00000021, #a1a1a1bf, #00000021);
+}
+.BoxTitle {
+    background: radial-gradient(#8e8181, #4e4e4e);
+    width: 500px;
+    height: 500px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 50px;
+    border-radius: 50px;
+    text-align: -webkit-center;
+    line-height: 2500%;
+}
+.Text {
+    font-size: 35px;
+    font-family: math;
+    background: linear-gradient(to right, #00ff9e, #00ffd5);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
